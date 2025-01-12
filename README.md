@@ -36,16 +36,18 @@ Execute all cells in the notebook.
 Augmented files will be saved in the output/augmented_audio directory.
 
 ## 🎛️ Customization
-Modify Augmentation Parameters
-Noise Levels: Adjust levels in noise_levels (e.g., [0.01, 0.02]).
-Time Stretch Rates: Change rates in time_stretch_rates (e.g., [0.8, 1.2]).
-Pitch Shifting Steps: Customize steps in pitch_shift_steps (e.g., [-2, 0, 2]).
-Speed Factors: Define factors in speed_factors (e.g., [0.5, 1.5]).
+- Modify Augmentation Parameters
+- **Noise Levels:** Adjust levels in noise_levels (e.g., [0.01, 0.02]).
+- **Time Stretch Rates:** Change rates in time_stretch_rates (e.g., [0.8, 1.2]).
+- **Pitch Shifting Steps:** Customize steps in pitch_shift_steps (e.g., [-2, 0, 2]).
+- **Speed Factors:** Define factors in speed_factors (e.g., [0.5, 1.5]).
 
 ## 🔥 Applications
 This tool can be used for:
 
-Machine Learning: Generate diverse audio datasets for training robust models.
-Speech Processing: Enhance datasets with varied transformations.
-Creative Projects: Experiment with new and unique audio variations.
+- **Machine Learning:** Generate diverse audio datasets for training robust models.
+- **Speech Processing:** Enhance datasets with varied transformations.
+- **Creative Projects:** Experiment with new and unique audio variations.
+
+  ----
 ### Developed by-Dheer N Raijada
